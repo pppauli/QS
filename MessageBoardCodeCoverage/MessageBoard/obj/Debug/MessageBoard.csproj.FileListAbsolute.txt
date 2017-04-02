@@ -1,0 +1,5 @@
+C:\SS17\QS\Task 1\Framework\MessageBoardCodeCoverage\MessageBoard\bin\Debug\MessageBoard.dll
+C:\SS17\QS\Task 1\Framework\MessageBoardCodeCoverage\MessageBoard\bin\Debug\MessageBoard.pdb
+C:\SS17\QS\Task 1\Framework\MessageBoardCodeCoverage\MessageBoard\obj\Debug\MessageBoard.csprojResolveAssemblyReference.cache
+C:\SS17\QS\Task 1\Framework\MessageBoardCodeCoverage\MessageBoard\obj\Debug\MessageBoard.dll
+C:\SS17\QS\Task 1\Framework\MessageBoardCodeCoverage\MessageBoard\obj\Debug\MessageBoard.pdb
